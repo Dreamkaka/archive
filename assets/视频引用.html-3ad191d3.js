@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper-c27b6911.js";import{r as t,o as _,c,d as n}from"./app-8fd31ce6.js";const r={};function i(l,s){const e=t("BiliBili");return _(),c("div",null,[n(e,{bvid:"BV1qT411p7Ub"})])}const f=o(r,[["render",i],["__file","视频引用.html.vue"]]);export{f as default};
